@@ -10,3 +10,6 @@ In uploading the Raytracer to this new repository from its old private one from 
 qweekertom. (n.d.). *Home* [Youtube channel]. YouTube. https://www.youtube.com/@qweekertom
 
 SOME_lyr1cx. (2024, October 21). *Finite state machines in Roblox*. Medium. https://medium.com/@SOME_lyr1cx/finite-state-machines-in-roblox-54b46267d11c
+
+NOTE: There's a combat system in version 2 of the roblox project files made almost entirely from the YouTube tutorial below. I did not showcase it in my portfolio, nor did I keep it for version 3, because I was mostly using it to test a combat system's functionality with my movement system, and will be building my own combat system soon, but it should be cited anyway.
+Senko. (2025, May). *Combat system tutorial (Roblox Studio)* [Playlist]. YouTube. https://www.youtube.com/playlist?list=PL4CHT4GnImNgLJiE5Z7WREYQGlJTKISjU
